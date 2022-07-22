@@ -6426,6 +6426,7 @@ MonoBehaviour:
   - {fileID: -5327746973728261921, guid: bf83a8db536a84162a1d502e8a51cdad, type: 3}
   - {fileID: 8196232937977089709, guid: 9582ae27cd29a4cb3b469738cd66acbb, type: 3}
   - {fileID: -6485585855173172294, guid: 823c8380027494aa09b569f6e9c9fcef, type: 3}
+  _config: {fileID: 1810551817}
 --- !u!4 &1810551816
 Transform:
   m_ObjectHideFlags: 0
@@ -6454,9 +6455,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   highLevel: 3
-  middleLevel: 0
+  middleLevel: -8
   lowLevel: -3
-  defaultXPosition: 20
+  defaultXPosition: 18
 --- !u!1001 &8366809845700870245
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6470,11 +6471,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4254624228814339851, guid: 2e0e71d2efa8e42469840668b66044b0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10.31
+      value: 20.24
       objectReference: {fileID: 0}
     - target: {fileID: 4254624228814339851, guid: 2e0e71d2efa8e42469840668b66044b0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.4
+      value: 8.69
       objectReference: {fileID: 0}
     - target: {fileID: 4254624228814339851, guid: 2e0e71d2efa8e42469840668b66044b0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6510,7 +6511,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6801341818574844479, guid: 2e0e71d2efa8e42469840668b66044b0, type: 3}
       propertyPath: m_Name
-      value: banner-big-1 (1)
+      value: tester
       objectReference: {fileID: 0}
     - target: {fileID: 8384005708164105275, guid: 2e0e71d2efa8e42469840668b66044b0, type: 3}
       propertyPath: m_Color.b
