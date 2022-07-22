@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-
 public class EnemySpawner : MonoBehaviour
 {
     [SerializeField] private int _repeatRate = 2;
